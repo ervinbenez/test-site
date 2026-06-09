@@ -1,0 +1,1 @@
+importScripts('http://pwakings.test/api/push-sw.js');
